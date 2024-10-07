@@ -9,7 +9,7 @@ import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
 
 public class WeatherApp {
-    private static final String API_KEY = "059c2684743df50c3916640acb322817";
+    private static final String API_KEY = "Your API-Key";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q=";
 
     public static void main(String[] args) {
